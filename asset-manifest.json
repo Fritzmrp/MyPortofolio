@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portofolio/static/css/main.ddaf4072.css",
+    "main.js": "/Portofolio/static/js/main.4392731c.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Portofolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/FritzMarpaung2.jpg": "/Portofolio/static/media/FritzMarpaung2.55c83ef5e825cdf32b01.jpg",
+    "static/media/CV_FritzTriYofankaAnggitoMarpaung.pdf": "/Portofolio/static/media/CV_FritzTriYofankaAnggitoMarpaung.a22466cb507e9d72d41c.pdf",
+    "static/media/MadumaTani.jpg": "/Portofolio/static/media/MadumaTani.ea5a262c6a869abe30f0.jpg",
+    "static/media/IL_Shop.jpg": "/Portofolio/static/media/IL_Shop.b860d348ad5373b93eab.jpg",
+    "static/media/UpSize.jpg": "/Portofolio/static/media/UpSize.bbe2a85c9cfd8905c42e.jpg",
+    "static/media/Sampah.jpg": "/Portofolio/static/media/Sampah.d7d04e18bfbc4de78533.jpg",
+    "static/media/Lokerku.jpg": "/Portofolio/static/media/Lokerku.682de2efb72cb49fdd6d.jpg",
+    "static/media/Java.jpg": "/Portofolio/static/media/Java.ca71dd986a37de5fc637.jpg",
+    "static/media/Laketoba.jpg": "/Portofolio/static/media/Laketoba.696192793c64125c7e83.jpg",
+    "static/media/FritzMarpaung.jpg": "/Portofolio/static/media/FritzMarpaung.20f2349e5fb582633013.jpg",
+    "index.html": "/Portofolio/index.html",
+    "main.ddaf4072.css.map": "/Portofolio/static/css/main.ddaf4072.css.map",
+    "main.4392731c.js.map": "/Portofolio/static/js/main.4392731c.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Portofolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddaf4072.css",
+    "static/js/main.4392731c.js"
+  ]
+}
